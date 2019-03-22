@@ -155,7 +155,7 @@ var defaultMessages = {
   agenda: 'На повестке дня',
   noEventsInRange: 'Нет событий в этом диапазоне.',
   showMore: function showMore(total) {
-    return "+" + total + " more";
+    return "+" + total + " больше";
   }
 };
 function messages(msgs) {
